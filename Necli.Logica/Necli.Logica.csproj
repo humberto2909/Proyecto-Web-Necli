@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="iTextSharp.LGPLv2.Core" Version="3.7.4" />
+    <PackageReference Include="Microsoft.Extensions.Hosting.Abstractions" Version="9.0.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Necli.Entidades\Necli.Entidades.csproj" />
+    <ProjectReference Include="..\Necli.Persistencia\Necli.Persistencia.csproj" />
+  </ItemGroup>
+
+</Project>

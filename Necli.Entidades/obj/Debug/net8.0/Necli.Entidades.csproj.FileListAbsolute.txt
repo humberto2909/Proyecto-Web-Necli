@@ -1,0 +1,22 @@
+C:\Users\ASUS\OneDrive\Desktop\Quiz 2 Web II\ProyectoNecliAPI\Necli.Entidades\bin\Debug\net8.0\Necli.Entidades.deps.json
+C:\Users\ASUS\OneDrive\Desktop\Quiz 2 Web II\ProyectoNecliAPI\Necli.Entidades\bin\Debug\net8.0\Necli.Entidades.dll
+C:\Users\ASUS\OneDrive\Desktop\Quiz 2 Web II\ProyectoNecliAPI\Necli.Entidades\bin\Debug\net8.0\Necli.Entidades.pdb
+C:\Users\ASUS\OneDrive\Desktop\Quiz 2 Web II\ProyectoNecliAPI\Necli.Entidades\obj\Debug\net8.0\Necli.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\Quiz 2 Web II\ProyectoNecliAPI\Necli.Entidades\obj\Debug\net8.0\Necli.Entidades.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\Quiz 2 Web II\ProyectoNecliAPI\Necli.Entidades\obj\Debug\net8.0\Necli.Entidades.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\Quiz 2 Web II\ProyectoNecliAPI\Necli.Entidades\obj\Debug\net8.0\Necli.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\Quiz 2 Web II\ProyectoNecliAPI\Necli.Entidades\obj\Debug\net8.0\Necli.Entidades.dll
+C:\Users\ASUS\OneDrive\Desktop\Quiz 2 Web II\ProyectoNecliAPI\Necli.Entidades\obj\Debug\net8.0\refint\Necli.Entidades.dll
+C:\Users\ASUS\OneDrive\Desktop\Quiz 2 Web II\ProyectoNecliAPI\Necli.Entidades\obj\Debug\net8.0\Necli.Entidades.pdb
+C:\Users\ASUS\OneDrive\Desktop\Quiz 2 Web II\ProyectoNecliAPI\Necli.Entidades\obj\Debug\net8.0\ref\Necli.Entidades.dll
+C:\Users\ASUS\OneDrive\Desktop\Proyecto Web\ProyectoNecliAPI\Necli.Entidades\bin\Debug\net8.0\Necli.Entidades.deps.json
+C:\Users\ASUS\OneDrive\Desktop\Proyecto Web\ProyectoNecliAPI\Necli.Entidades\bin\Debug\net8.0\Necli.Entidades.dll
+C:\Users\ASUS\OneDrive\Desktop\Proyecto Web\ProyectoNecliAPI\Necli.Entidades\bin\Debug\net8.0\Necli.Entidades.pdb
+C:\Users\ASUS\OneDrive\Desktop\Proyecto Web\ProyectoNecliAPI\Necli.Entidades\obj\Debug\net8.0\Necli.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\Proyecto Web\ProyectoNecliAPI\Necli.Entidades\obj\Debug\net8.0\Necli.Entidades.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\Proyecto Web\ProyectoNecliAPI\Necli.Entidades\obj\Debug\net8.0\Necli.Entidades.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\Proyecto Web\ProyectoNecliAPI\Necli.Entidades\obj\Debug\net8.0\Necli.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\Proyecto Web\ProyectoNecliAPI\Necli.Entidades\obj\Debug\net8.0\Necli.Entidades.dll
+C:\Users\ASUS\OneDrive\Desktop\Proyecto Web\ProyectoNecliAPI\Necli.Entidades\obj\Debug\net8.0\refint\Necli.Entidades.dll
+C:\Users\ASUS\OneDrive\Desktop\Proyecto Web\ProyectoNecliAPI\Necli.Entidades\obj\Debug\net8.0\Necli.Entidades.pdb
+C:\Users\ASUS\OneDrive\Desktop\Proyecto Web\ProyectoNecliAPI\Necli.Entidades\obj\Debug\net8.0\ref\Necli.Entidades.dll

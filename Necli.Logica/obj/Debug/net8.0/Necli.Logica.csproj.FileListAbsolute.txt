@@ -1,0 +1,34 @@
+C:\Users\ASUS\OneDrive\Desktop\Quiz 2 Web II\ProyectoNecliAPI\Necli.Logica\bin\Debug\net8.0\Necli.Logica.deps.json
+C:\Users\ASUS\OneDrive\Desktop\Quiz 2 Web II\ProyectoNecliAPI\Necli.Logica\bin\Debug\net8.0\Necli.Logica.dll
+C:\Users\ASUS\OneDrive\Desktop\Quiz 2 Web II\ProyectoNecliAPI\Necli.Logica\bin\Debug\net8.0\Necli.Logica.pdb
+C:\Users\ASUS\OneDrive\Desktop\Quiz 2 Web II\ProyectoNecliAPI\Necli.Logica\bin\Debug\net8.0\Necli.Entidades.dll
+C:\Users\ASUS\OneDrive\Desktop\Quiz 2 Web II\ProyectoNecliAPI\Necli.Logica\bin\Debug\net8.0\Necli.Persistencia.dll
+C:\Users\ASUS\OneDrive\Desktop\Quiz 2 Web II\ProyectoNecliAPI\Necli.Logica\bin\Debug\net8.0\Necli.Entidades.pdb
+C:\Users\ASUS\OneDrive\Desktop\Quiz 2 Web II\ProyectoNecliAPI\Necli.Logica\bin\Debug\net8.0\Necli.Persistencia.pdb
+C:\Users\ASUS\OneDrive\Desktop\Quiz 2 Web II\ProyectoNecliAPI\Necli.Logica\obj\Debug\net8.0\Necli.Logica.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\Quiz 2 Web II\ProyectoNecliAPI\Necli.Logica\obj\Debug\net8.0\Necli.Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\Quiz 2 Web II\ProyectoNecliAPI\Necli.Logica\obj\Debug\net8.0\Necli.Logica.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\Quiz 2 Web II\ProyectoNecliAPI\Necli.Logica\obj\Debug\net8.0\Necli.Logica.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\Quiz 2 Web II\ProyectoNecliAPI\Necli.Logica\obj\Debug\net8.0\Necli.Logica.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\Quiz 2 Web II\ProyectoNecliAPI\Necli.Logica\obj\Debug\net8.0\Necli.Lo.EC1A1579.Up2Date
+C:\Users\ASUS\OneDrive\Desktop\Quiz 2 Web II\ProyectoNecliAPI\Necli.Logica\obj\Debug\net8.0\Necli.Logica.dll
+C:\Users\ASUS\OneDrive\Desktop\Quiz 2 Web II\ProyectoNecliAPI\Necli.Logica\obj\Debug\net8.0\refint\Necli.Logica.dll
+C:\Users\ASUS\OneDrive\Desktop\Quiz 2 Web II\ProyectoNecliAPI\Necli.Logica\obj\Debug\net8.0\Necli.Logica.pdb
+C:\Users\ASUS\OneDrive\Desktop\Quiz 2 Web II\ProyectoNecliAPI\Necli.Logica\obj\Debug\net8.0\ref\Necli.Logica.dll
+C:\Users\ASUS\OneDrive\Desktop\Proyecto Web\ProyectoNecliAPI\Necli.Logica\bin\Debug\net8.0\Necli.Logica.deps.json
+C:\Users\ASUS\OneDrive\Desktop\Proyecto Web\ProyectoNecliAPI\Necli.Logica\bin\Debug\net8.0\Necli.Logica.dll
+C:\Users\ASUS\OneDrive\Desktop\Proyecto Web\ProyectoNecliAPI\Necli.Logica\bin\Debug\net8.0\Necli.Logica.pdb
+C:\Users\ASUS\OneDrive\Desktop\Proyecto Web\ProyectoNecliAPI\Necli.Logica\bin\Debug\net8.0\Necli.Entidades.dll
+C:\Users\ASUS\OneDrive\Desktop\Proyecto Web\ProyectoNecliAPI\Necli.Logica\bin\Debug\net8.0\Necli.Persistencia.dll
+C:\Users\ASUS\OneDrive\Desktop\Proyecto Web\ProyectoNecliAPI\Necli.Logica\bin\Debug\net8.0\Necli.Entidades.pdb
+C:\Users\ASUS\OneDrive\Desktop\Proyecto Web\ProyectoNecliAPI\Necli.Logica\bin\Debug\net8.0\Necli.Persistencia.pdb
+C:\Users\ASUS\OneDrive\Desktop\Proyecto Web\ProyectoNecliAPI\Necli.Logica\obj\Debug\net8.0\Necli.Logica.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\Proyecto Web\ProyectoNecliAPI\Necli.Logica\obj\Debug\net8.0\Necli.Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\Proyecto Web\ProyectoNecliAPI\Necli.Logica\obj\Debug\net8.0\Necli.Logica.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\Proyecto Web\ProyectoNecliAPI\Necli.Logica\obj\Debug\net8.0\Necli.Logica.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\Proyecto Web\ProyectoNecliAPI\Necli.Logica\obj\Debug\net8.0\Necli.Logica.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\Proyecto Web\ProyectoNecliAPI\Necli.Logica\obj\Debug\net8.0\Necli.Lo.EC1A1579.Up2Date
+C:\Users\ASUS\OneDrive\Desktop\Proyecto Web\ProyectoNecliAPI\Necli.Logica\obj\Debug\net8.0\Necli.Logica.dll
+C:\Users\ASUS\OneDrive\Desktop\Proyecto Web\ProyectoNecliAPI\Necli.Logica\obj\Debug\net8.0\refint\Necli.Logica.dll
+C:\Users\ASUS\OneDrive\Desktop\Proyecto Web\ProyectoNecliAPI\Necli.Logica\obj\Debug\net8.0\Necli.Logica.pdb
+C:\Users\ASUS\OneDrive\Desktop\Proyecto Web\ProyectoNecliAPI\Necli.Logica\obj\Debug\net8.0\ref\Necli.Logica.dll

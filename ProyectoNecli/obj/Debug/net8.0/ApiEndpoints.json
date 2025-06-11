@@ -1,0 +1,287 @@
+[
+  {
+    "ContainingType": "ProyectoNecli.Controllers.CuentaController",
+    "Method": "ObtenerCuentaPorTelefono",
+    "RelativePath": "api/Cuenta/buscar-cuenta-por-telefono/{telefono}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "telefono",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoNecli.Controllers.CuentaController",
+    "Method": "ConfirmarCuentaPorToken",
+    "RelativePath": "api/Cuenta/confirmar-token-de-cuenta",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "token",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoNecli.Controllers.CuentaController",
+    "Method": "CrearCuenta",
+    "RelativePath": "api/Cuenta/Crear-Cuenta",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Necli.Logica.Dtos.CrearCuentaDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoNecli.Controllers.CuentaController",
+    "Method": "EliminarCuentaPorTelefono",
+    "RelativePath": "api/Cuenta/eliminar-cuenta-por-telefono/{telefono}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "telefono",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoNecli.Controllers.CuentaController",
+    "Method": "ReenviarConfirmacion",
+    "RelativePath": "api/Cuenta/reenviar-confirmacion",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "telefono",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoNecli.Controllers.LoginController",
+    "Method": "Login",
+    "RelativePath": "api/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Necli.Logica.Dtos.LoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoNecli.Controllers.TransaccionController",
+    "Method": "ObtenerPorFiltro",
+    "RelativePath": "api/Transaccion/buscar-transaccion-por-filtros",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "FechaDesde",
+        "Type": "System.Nullable\u00601[[System.DateTime, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "FechaHasta",
+        "Type": "System.Nullable\u00601[[System.DateTime, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "CuentaDestinoId",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoNecli.Controllers.TransaccionController",
+    "Method": "GenerarMiReporte",
+    "RelativePath": "api/Transaccion/generar-mi-reporte",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoNecli.Controllers.TransaccionController",
+    "Method": "GenerarReportesMensuales",
+    "RelativePath": "api/Transaccion/generar-reportes-mensuales",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoNecli.Controllers.TransaccionController",
+    "Method": "CrearTransaccion",
+    "RelativePath": "api/Transaccion/Realizar-transaccion",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Necli.Logica.Dtos.CrearTransaccionDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoNecli.Controllers.TransaccionExternaController",
+    "Method": "ConsultarTransaccionesExternas",
+    "RelativePath": "api/TransaccionExterna/consultar-transaccion-externa",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "numeroCuenta",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "fecha",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoNecli.Controllers.TransaccionExternaController",
+    "Method": "RealizarTransaccionExterna",
+    "RelativePath": "api/TransaccionExterna/realizar-transaccion-externa",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Necli.Logica.Dtos.CrearTransaccionExternaDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoNecli.Controllers.UsuarioController",
+    "Method": "ActualizarUsuario",
+    "RelativePath": "api/Usuario/Actualizar-Usuario",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cedula",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "dto",
+        "Type": "Necli.Logica.Dtos.ActualizarUsuarioDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoNecli.Controllers.UsuarioController",
+    "Method": "EliminarUsuario",
+    "RelativePath": "api/Usuario/Eliminar-Usuario",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cedula",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoNecli.Controllers.UsuarioController",
+    "Method": "ObtenerUsuarioPorIdentificacion",
+    "RelativePath": "api/Usuario/Obtener-Usuario-Por-Cedula",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cedula",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoNecli.Controllers.UsuarioController",
+    "Method": "Restablecer",
+    "RelativePath": "api/Usuario/restablecer-contrase\u00F1a",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "token",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "nuevaClave",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoNecli.Controllers.UsuarioController",
+    "Method": "SolicitarReset",
+    "RelativePath": "api/Usuario/solicitar-restablecimiento",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "correo",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

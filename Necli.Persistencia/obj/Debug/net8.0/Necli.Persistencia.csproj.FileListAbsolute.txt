@@ -1,0 +1,34 @@
+C:\Users\ASUS\OneDrive\Desktop\Quiz 2 Web II\ProyectoNecliAPI\Necli.Persistencia\bin\Debug\net8.0\Necli.Persistencia.deps.json
+C:\Users\ASUS\OneDrive\Desktop\Quiz 2 Web II\ProyectoNecliAPI\Necli.Persistencia\bin\Debug\net8.0\Necli.Persistencia.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\Quiz 2 Web II\ProyectoNecliAPI\Necli.Persistencia\bin\Debug\net8.0\Necli.Persistencia.dll
+C:\Users\ASUS\OneDrive\Desktop\Quiz 2 Web II\ProyectoNecliAPI\Necli.Persistencia\bin\Debug\net8.0\Necli.Persistencia.pdb
+C:\Users\ASUS\OneDrive\Desktop\Quiz 2 Web II\ProyectoNecliAPI\Necli.Persistencia\bin\Debug\net8.0\Necli.Entidades.dll
+C:\Users\ASUS\OneDrive\Desktop\Quiz 2 Web II\ProyectoNecliAPI\Necli.Persistencia\bin\Debug\net8.0\Necli.Entidades.pdb
+C:\Users\ASUS\OneDrive\Desktop\Quiz 2 Web II\ProyectoNecliAPI\Necli.Persistencia\obj\Debug\net8.0\Necli.Persistencia.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\Quiz 2 Web II\ProyectoNecliAPI\Necli.Persistencia\obj\Debug\net8.0\Necli.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\Quiz 2 Web II\ProyectoNecliAPI\Necli.Persistencia\obj\Debug\net8.0\Necli.Persistencia.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\Quiz 2 Web II\ProyectoNecliAPI\Necli.Persistencia\obj\Debug\net8.0\Necli.Persistencia.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\Quiz 2 Web II\ProyectoNecliAPI\Necli.Persistencia\obj\Debug\net8.0\Necli.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\Quiz 2 Web II\ProyectoNecliAPI\Necli.Persistencia\obj\Debug\net8.0\Necli.Pe.C0C4FF2A.Up2Date
+C:\Users\ASUS\OneDrive\Desktop\Quiz 2 Web II\ProyectoNecliAPI\Necli.Persistencia\obj\Debug\net8.0\Necli.Persistencia.dll
+C:\Users\ASUS\OneDrive\Desktop\Quiz 2 Web II\ProyectoNecliAPI\Necli.Persistencia\obj\Debug\net8.0\refint\Necli.Persistencia.dll
+C:\Users\ASUS\OneDrive\Desktop\Quiz 2 Web II\ProyectoNecliAPI\Necli.Persistencia\obj\Debug\net8.0\Necli.Persistencia.pdb
+C:\Users\ASUS\OneDrive\Desktop\Quiz 2 Web II\ProyectoNecliAPI\Necli.Persistencia\obj\Debug\net8.0\Necli.Persistencia.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\Quiz 2 Web II\ProyectoNecliAPI\Necli.Persistencia\obj\Debug\net8.0\ref\Necli.Persistencia.dll
+C:\Users\ASUS\OneDrive\Desktop\Proyecto Web\ProyectoNecliAPI\Necli.Persistencia\bin\Debug\net8.0\Necli.Persistencia.deps.json
+C:\Users\ASUS\OneDrive\Desktop\Proyecto Web\ProyectoNecliAPI\Necli.Persistencia\bin\Debug\net8.0\Necli.Persistencia.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\Proyecto Web\ProyectoNecliAPI\Necli.Persistencia\bin\Debug\net8.0\Necli.Persistencia.dll
+C:\Users\ASUS\OneDrive\Desktop\Proyecto Web\ProyectoNecliAPI\Necli.Persistencia\bin\Debug\net8.0\Necli.Persistencia.pdb
+C:\Users\ASUS\OneDrive\Desktop\Proyecto Web\ProyectoNecliAPI\Necli.Persistencia\bin\Debug\net8.0\Necli.Entidades.dll
+C:\Users\ASUS\OneDrive\Desktop\Proyecto Web\ProyectoNecliAPI\Necli.Persistencia\bin\Debug\net8.0\Necli.Entidades.pdb
+C:\Users\ASUS\OneDrive\Desktop\Proyecto Web\ProyectoNecliAPI\Necli.Persistencia\obj\Debug\net8.0\Necli.Persistencia.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\Proyecto Web\ProyectoNecliAPI\Necli.Persistencia\obj\Debug\net8.0\Necli.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\Proyecto Web\ProyectoNecliAPI\Necli.Persistencia\obj\Debug\net8.0\Necli.Persistencia.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\Proyecto Web\ProyectoNecliAPI\Necli.Persistencia\obj\Debug\net8.0\Necli.Persistencia.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\Proyecto Web\ProyectoNecliAPI\Necli.Persistencia\obj\Debug\net8.0\Necli.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\Proyecto Web\ProyectoNecliAPI\Necli.Persistencia\obj\Debug\net8.0\Necli.Pe.C0C4FF2A.Up2Date
+C:\Users\ASUS\OneDrive\Desktop\Proyecto Web\ProyectoNecliAPI\Necli.Persistencia\obj\Debug\net8.0\Necli.Persistencia.dll
+C:\Users\ASUS\OneDrive\Desktop\Proyecto Web\ProyectoNecliAPI\Necli.Persistencia\obj\Debug\net8.0\refint\Necli.Persistencia.dll
+C:\Users\ASUS\OneDrive\Desktop\Proyecto Web\ProyectoNecliAPI\Necli.Persistencia\obj\Debug\net8.0\Necli.Persistencia.pdb
+C:\Users\ASUS\OneDrive\Desktop\Proyecto Web\ProyectoNecliAPI\Necli.Persistencia\obj\Debug\net8.0\Necli.Persistencia.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\Proyecto Web\ProyectoNecliAPI\Necli.Persistencia\obj\Debug\net8.0\ref\Necli.Persistencia.dll
